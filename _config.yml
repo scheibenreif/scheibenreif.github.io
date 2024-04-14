@@ -1,11 +1,14 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Linus Scheibenreif # your name (or website title) here
+logo: "/images/linus_IMG_1741.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Hi I'm Linus.
+  I'm currently a Ph.D. Candidate in Computer Science with the <a href="https://ics.unisg.ch/chairs/damian-borth-artificial-intelligence-and-machine-learning/">AI:ML group</a> at the <a href="unisg.ch/">University of St. Gallen (HSG)</a>, Switzerland.
   <br><br>
-  Second description 
+  My work focuses on self-supervised learning deep learning for earth observation data. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.github.com/scheibenreif">GitHub</a> 
+  <a href="https://scholar.google.com/citations?user=9xbMAkcAAAAJ&hl=de">Google Scholar</a> 
+  <a href="https://www.linkedin.com/linus-scheibenreif/">LinkedIn</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
