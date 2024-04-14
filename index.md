@@ -4,7 +4,7 @@
 
 ### News
 
-* I will be an AI Resident with <a href="x.company">Google X</a> in Mountain View, CA working on geospatial machine learning software from Jan.-May 2024.
+* I will be an AI Resident with <a href="https://x.company">Google X</a> in Mountain View, CA working on geospatial machine learning software from Jan.-May 2024.
 * New paper on Parameter Efficient Self-supervised Domain Adaptation for Geospatial Foundation Models accepted at <a href="https://cvpr.thecvf.com">CVPR 2024</a>!
 * We will hold the second iteration of our tutorial on <a href="https://github.com/HSG-AIML/igarss-tutorial">Data-efficient Deep Learning for Earth Observation</a> at IGARSS 2024 in Athens.
 * Two papers accepted at <a href="https://www.2024.ieeeigarss.org">IGARSS 2024</a>. Congratulations to our students Xuemei, Lukas, and Phil!
