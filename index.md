@@ -11,6 +11,8 @@
 * New paper on Masked Vision Transformers for Hyperspectral data accepted at the <a href="https://www.grss-ieee.org/events/earthvision-2023/">CVPR 2023 EarthVision Workshop</a>!
 * Tutorial on <a href="https://github.com/HSG-AIML/igarss-tutorial">Data-efficient Deep Learning for Earth Observation</a> accepted at IGARSS 2023.
 * Three papers, including the <a href="https://arxiv.org/abs/2307.01741">BEN-GE dataset</a>, accepted at IGARSS 2023.
+* We hosted the <a href="https://swiss-remote-sensing-days.github.io/">Swiss Remote Sensing Days 2023</a> in St.Gallen!
+* Finished my Ph.D. course phase. Big thanks to my committee, Profs. <a href="https://ics.unisg.ch/chairs/damian-borth-artificial-intelligence-and-machine-learning/">Damian Borth</a>, <a href="https://www.hft-stuttgart.com/p/michael-mommert">Michael Mommert</a>, and <a href="https://prs.igp.ethz.ch">Konrad Schindler</a>!
 * Our EarthVision 2022 paper won **Best Student Paper Award**!
 * New paper on Self-supervised Vision Transformers accepted at the <a href="https://www.grss-ieee.org/events/earthvision-2022/">CVPR 2022 EarthVision Workshop</a>!
 * New paper on Contrastive Self-supervised Data Fusion accepted to the <a href="https://isprs-annals.copernicus.org/articles/V-3-2022/705/2022/isprs-annals-V-3-2022-705-2022.pdf">ISPRS Annals</a>!
