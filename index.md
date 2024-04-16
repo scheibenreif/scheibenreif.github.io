@@ -1,8 +1,7 @@
-## Overview
 
 ---
 
-### News
+## News
 
 * I will be an AI Resident with <a href="https://x.company">Google X</a> in Mountain View, CA working on geospatial machine learning software from Jan.-May 2024.
 * New paper on Parameter Efficient Self-supervised Domain Adaptation for Geospatial Foundation Models accepted at <a href="https://cvpr.thecvf.com">CVPR 2024</a>!
