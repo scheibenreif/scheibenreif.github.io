@@ -3,8 +3,8 @@
 
 ## News
 
-* I will be an AI Resident with <a href="https://x.company">Google X</a> in Mountain View, CA working on <a href="http://x.company/projects/bellwether/">geospatial machine learning software</a> from Jan.-May 2024.
-* New paper on Parameter Efficient Self-supervised Domain Adaptation for Geospatial Foundation Models accepted at <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Scheibenreif_Parameter_Efficient_Self-Supervised_Geospatial_Domain_Adaptation_CVPR_2024_paper.html">CVPR 2024</a>!
+* I will be an AI Resident with <a href="https://x.company">Google X</a> in Mountain View working on <a href="http://x.company/projects/bellwether/">geospatial machine learning software</a> from Jan.-May 2024.
+* New paper on Parameter Efficient Self-supervised Domain Adaptation for Geospatial Foundation Models accepted at CVPR 2024 (<a href="https://openaccess.thecvf.com/content/CVPR2024/html/Scheibenreif_Parameter_Efficient_Self-Supervised_Geospatial_Domain_Adaptation_CVPR_2024_paper.html">paper</a>, <a href="https://github.com/HSG-AIML/GDA">code</a>)!
 * We will hold the second iteration of our tutorial on <a href="https://github.com/mommermi/IGARSS2024_DataEfficientDeepLearningEO">Data-efficient Deep Learning for Earth Observation</a> at IGARSS 2024 in Athens.
 * Three papers accepted at <a href="https://www.2024.ieeeigarss.org">IGARSS 2024</a>. Congratulations to our students!
 * New paper on Masked Vision Transformers for Hyperspectral data accepted at the <a href="https://www.grss-ieee.org/events/earthvision-2023/">CVPR 2023 EarthVision Workshop</a>!
