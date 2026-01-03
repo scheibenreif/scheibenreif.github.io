@@ -3,7 +3,7 @@
 
 ## News
 
-* Joined the PRS lab at ETH Zurich as Postdoc.
+* I joined the PRS lab at ETH Zurich as Postdoc.
 * Defended my Ph.D. on Self-supervised Deep Learning for Earth Observation!
 * Started an internship as Student Researcher at Google DeepMind in Zurich. I will be working on <a href="https://deepmind.google/blog/mapping-modeling-and-understanding-nature-with-ai/">nature understanding with AI</a>. 
 * I will be an AI Resident with <a href="https://x.company">Google X</a> in Mountain View working on <a href="http://x.company/projects/bellwether/">geospatial machine learning softw>are</a> from Jan.-May 2024.
