@@ -23,7 +23,7 @@
 * New paper on Contrastive Self-supervised Data Fusion accepted to the <a href="https://isprs-annals.copernicus.org/articles/V-3-2022/705/2022/isprs-annals-V-3-2022-705-2022.pdf">ISPRS Annals</a>!
 * Our paper on Estimation of Ambient NO2 Concentrations was published in the <a href="https://ieeexplore.ieee.org/abstract/document/9738606">IEEE Transactions on Geoscience and Remote Sensing</a>!
 * New paper on Invariant Risk Minimization for Cross-organism Inference accepted at <a href="https://ml4h.cc/2021/">NeurIPS 2021 Workshop</a> Machine Learning for Health. This is an outcome of FDL together with researchers from NASA and Intel. 
-* I will be a Researcher with the **Frontier Development Lab** (<a href="https://frontierdevelopmentlab.org">link</a> in the summer of 2021!
+* I will be a Researcher with the **Frontier Development Lab** (<a href="https://frontierdevelopmentlab.org">link</a>) in the summer of 2021!
 * New paper on Air Pollution Estimation from Space accepted at the <a href="https://www.climatechange.ai/events/icml2021">ICML 2021 Workshop</a> on Tackling Climate Change with Machine Learning.
 
 ---
