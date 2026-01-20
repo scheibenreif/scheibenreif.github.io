@@ -3,6 +3,7 @@
 
 ## News
 
+* Pre-print on the detection of building damage from medium-resolution satellite imagery (<a href="https://arxiv.org/abs/2511.05461">arXiv</a>).
 * New <a href="https://ieeexplore.ieee.org/document/11341893">paper</a> on mixture-of-experts in geospatial foundation models.
 * I joined the PRS group at **ETH Zurich** as Postdoc.
 * Defended my Ph.D. on Self-supervised Deep Learning for Earth Observation!
