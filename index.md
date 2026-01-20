@@ -8,8 +8,8 @@
 * Defended my Ph.D. on Self-supervised Deep Learning for Earth Observation!
 * Started an internship as Student Researcher at **Google DeepMind** in Zurich. I will be working on <a href="https://deepmind.google/blog/mapping-modeling-and-understanding-nature-with-ai/">nature understanding with AI</a>. 
 * New <a href="https://link.springer.com/chapter/10.1007/978-3-032-06106-5_30">paper</a> on parameter-efficient fine-tuning of geospatial foundation models.
-* I will be an AI Resident with <a href="https://x.company">Google X</a> in Mountain View working on <a href="http://x.company/projects/bellwether/">geospatial machine learning software</a> from Jan.-May 2024.
-* New paper on Parameter Efficient Self-supervised Domain Adaptation for Geospatial Foundation Models accepted at CVPR 2024 (<a href="https://openaccess.thecvf.com/content/CVPR2024/html/Scheibenreif_Parameter_Efficient_Self-Supervised_Geospatial_Domain_Adaptation_CVPR_2024_paper.html">paper</a>, <a href="https://github.com/HSG-AIML/GDA">code</a>)!
+* I will be an AI Resident with <a href="https://x.company">**Google X**</a> in Mountain View working on <a href="http://x.company/projects/bellwether/">geospatial machine learning software</a> from Jan.-May 2024.
+* New paper on Parameter Efficient Self-supervised Domain Adaptation for Geospatial Foundation Models accepted at **CVPR 2024** (<a href="https://openaccess.thecvf.com/content/CVPR2024/html/Scheibenreif_Parameter_Efficient_Self-Supervised_Geospatial_Domain_Adaptation_CVPR_2024_paper.html">paper</a>, <a href="https://github.com/HSG-AIML/GDA">code</a>)!
 * We will hold the second iteration of our tutorial on <a href="https://github.com/mommermi/IGARSS2024_DataEfficientDeepLearningEO">Data-efficient Deep Learning for Earth Observation</a> at IGARSS 2024 in Athens.
 * Three papers accepted at <a href="https://www.2024.ieeeigarss.org">IGARSS 2024</a>. Congratulations to our students!
 * New paper on Masked Vision Transformers for Hyperspectral data accepted at the <a href="https://www.grss-ieee.org/events/earthvision-2023/">CVPR 2023 EarthVision Workshop</a>!
@@ -22,7 +22,7 @@
 * New paper on Contrastive Self-supervised Data Fusion accepted to the <a href="https://isprs-annals.copernicus.org/articles/V-3-2022/705/2022/isprs-annals-V-3-2022-705-2022.pdf">ISPRS Annals</a>!
 * Our paper on Estimation of Ambient NO2 Concentrations was published in the <a href="https://ieeexplore.ieee.org/abstract/document/9738606">IEEE Transactions on Geoscience and Remote Sensing</a>!
 * New paper on Invariant Risk Minimization for Cross-organism Inference accepted at <a href="https://ml4h.cc/2021/">NeurIPS 2021 Workshop</a> Machine Learning for Health. This is an outcome of FDL together with researchers from NASA and Intel. 
-* I will be a Researcher with the <a href="https://frontierdevelopmentlab.org">Frontier Development Lab</a> in the summer of 2021!
+* I will be a Researcher with the <a href="https://frontierdevelopmentlab.org">**Frontier Development Lab**</a> in the summer of 2021!
 * New paper on Air Pollution Estimation from Space accepted at the <a href="https://www.climatechange.ai/events/icml2021">ICML 2021 Workshop</a> on Tackling Climate Change with Machine Learning.
 
 ---
