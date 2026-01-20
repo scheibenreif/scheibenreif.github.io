@@ -4,9 +4,9 @@
 ## News
 
 * New <a href="https://ieeexplore.ieee.org/document/11341893">paper</a> on mixture-of-experts in geospatial foundation models.
-* I joined the PRS group at ETH Zurich as Postdoc.
+* I joined the PRS group at **ETH Zurich** as Postdoc.
 * Defended my Ph.D. on Self-supervised Deep Learning for Earth Observation!
-* Started an internship as Student Researcher at Google DeepMind in Zurich. I will be working on <a href="https://deepmind.google/blog/mapping-modeling-and-understanding-nature-with-ai/">nature understanding with AI</a>. 
+* Started an internship as Student Researcher at **Google DeepMind** in Zurich. I will be working on <a href="https://deepmind.google/blog/mapping-modeling-and-understanding-nature-with-ai/">nature understanding with AI</a>. 
 * New <a href="https://link.springer.com/chapter/10.1007/978-3-032-06106-5_30">paper</a> on parameter-efficient fine-tuning of geospatial foundation models.
 * I will be an AI Resident with <a href="https://x.company">Google X</a> in Mountain View working on <a href="http://x.company/projects/bellwether/">geospatial machine learning soft>w>are</a> from Jan.-May 2024.
 * New paper on Parameter Efficient Self-supervised Domain Adaptation for Geospatial Foundation Models accepted at CVPR 2024 (<a href="https://openaccess.thecvf.com/content/CVPR2024/html/Scheibenreif_Parameter_Efficient_Self-Supervised_Geospatial_Domain_Adaptation_CVPR_2024_paper.html">paper</a>, <a href="https://github.com/HSG-AIML/GDA">code</a>)!
